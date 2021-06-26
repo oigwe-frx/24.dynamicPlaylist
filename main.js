@@ -1,12 +1,12 @@
 //IMAGES FOR VIDEO POSTER
 const imgArray = [
-  'https://i2.wp.com/theimaginativeconservative.org/wp-content/uploads/2017/04/star-trek.jpg?ssl=1',
-  'https://cdn.arstechnica.net/wp-content/uploads/2015/09/Star-Trek-640x478.png',
-  'https://vignette.wikia.nocookie.net/memoryalpha/images/7/76/Kirk_and_Enterprise_landing_party.jpg/revision/latest?cb=20130201220930&path-prefix=en',
-  'https://memestatic1.fjcdn.com/comments/Several+of+the+original+star+trek+cast+were+veterans+including+_6a713c89e36765f8bd64205ac1bb5502.jpg',
-  'https://upload.wikimedia.org/wikipedia/en/5/57/Star_Trek_The_Cage.jpg',
-  'https://cdn2us.denofgeek.com/sites/denofgeekus/files/styles/main_wide/public/2016/08/star-trek-original-cast.jpg?itok=SEkvih6F',
-  'https://cimg.tvgcdn.net/i/2018/07/31/b8831a6c-c64c-487f-854b-5b312fd11862/271c159b42ee4bc98215966f19279928/180731-startrekspock-news.jpg'
+  './assets/images/180731-startrekspock-news.jpg',
+  './assets/images/Kirk_and_Enterprise_landing_party.jpg',
+  './assets/images/Several+of+the+original+star+trek+cast+were+veterans+including+_6a713c89e36765f8bd64205ac1bb5502.jpg',
+  './assets/images/Star-Trek-640x478.png',
+  './assets/images/Star_Trek_The_Cage.jpg',
+  './assets/images/artsculture2-1-2abb593d3dca7aab.jpg',
+  './assets/images/george-takei-sulu.png'
 ];
 
 function imgRandom() {
