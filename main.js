@@ -164,7 +164,7 @@ const objectToHTML = (song, counter) => {
            <div class="video" data-poster=${image} style='width: 200px; height: 150px'>
               <img class="img-responsive" src=${image}>
               <div class="demo-gallery-poster">
-                <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
+                <img src="./assets/images/play-button-overlay.png">
               </div>
            </div>
          </div>
